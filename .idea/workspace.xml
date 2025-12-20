@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="527e6d49-9a2e-4fbe-9aff-e04b76a6637b" name="Changes" comment="Tarea nueva">
-      <change afterPath="$PROJECT_DIR$/Semana3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="527e6d49-9a2e-4fbe-9aff-e04b76a6637b" name="Changes" comment="Semana 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +44,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Ejercicio.executor": "Run",
+    "Python.POO.executor": "Run",
     "Python.Semana3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -75,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1765152449397</updated>
       <workItem from="1765152450462" duration="1074000" />
-      <workItem from="1765766213198" duration="934000" />
+      <workItem from="1765766213198" duration="1058000" />
     </task>
     <task id="LOCAL-00001" summary="Tarea nueva">
       <option name="closed" value="true" />
@@ -85,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765153358572</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Semana 3">
+      <option name="closed" value="true" />
+      <created>1765767250144</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1765767250144</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,9 +110,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tarea nueva" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea nueva" />
+    <MESSAGE value="Semana 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Semana 3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonTarea$Ejercicio.coverage" NAME="Ejercicio Coverage Results" MODIFIED="1765153324967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonTarea$Semana3.coverage" NAME="Semana3 Coverage Results" MODIFIED="1765767132245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonTarea$POO.coverage" NAME="POO Coverage Results" MODIFIED="1765767198832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
