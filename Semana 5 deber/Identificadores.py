@@ -71,9 +71,8 @@ def mostrar_info_estudiante():
 # PARTE 3: EJECUCIÓN PRINCIPAL
 
 def main():
-    """
-    Esta es la función principal que ejecuta todo el programa.
-    """
+    # Esta funcion ejecuta toda el  deber
+
     print("¡BIENVENIDO AL PROGRAMA!")
     print("=" * 40)
 
