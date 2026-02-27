@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="527e6d49-9a2e-4fbe-9aff-e04b76a6637b" name="Changes" comment="Semana 9 productos">
-      <change afterPath="$PROJECT_DIR$/Semana 10/Manipulacion_archivos.py" afterDir="false" />
+    <list default="true" id="527e6d49-9a2e-4fbe-9aff-e04b76a6637b" name="Changes" comment="semana 10 , texto guardado de archivos y lectura">
+      <change afterPath="$PROJECT_DIR$/Semana 11/colecciones.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Python.Manipulacion_archivos.executor": "Run",
     "Python.POO.executor": "Run",
     "Python.Semana3.executor": "Run",
+    "Python.colecciones.executor": "Run",
     "Python.polimorfismo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -93,7 +94,8 @@
       <workItem from="1769930764034" duration="751000" />
       <workItem from="1769932056868" duration="1005000" />
       <workItem from="1771190502028" duration="469000" />
-      <workItem from="1771678033227" duration="351000" />
+      <workItem from="1771678033227" duration="456000" />
+      <workItem from="1772151583276" duration="415000" />
     </task>
     <task id="LOCAL-00001" summary="Tarea nueva">
       <option name="closed" value="true" />
@@ -175,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771190793744</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="semana 10 , texto guardado de archivos y lectura">
+      <option name="closed" value="true" />
+      <created>1771678414927</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1771678414927</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +213,8 @@
     <MESSAGE value="semana 7 deber" />
     <MESSAGE value="Semana 8 proyecto , comentado  y funcionando  correctamente" />
     <MESSAGE value="Semana 9 productos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Semana 9 productos" />
+    <MESSAGE value="semana 10 , texto guardado de archivos y lectura" />
+    <option name="LAST_COMMIT_MESSAGE" value="semana 10 , texto guardado de archivos y lectura" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonTarea$Constructores.coverage" NAME="Constructores Coverage Results" MODIFIED="1769356338558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 7 deber" />
@@ -213,6 +224,7 @@
     <SUITE FILE_PATH="coverage/PythonTarea$Ejercicio.coverage" NAME="Ejercicio Coverage Results" MODIFIED="1765153324967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonTarea$Estructura.coverage" NAME="Estructura Coverage Results" MODIFIED="1771190731252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 9 deber" />
     <SUITE FILE_PATH="coverage/PythonTarea$EjemplosMundoReal_POO.coverage" NAME="EjemplosMundoReal_POO Coverage Results" MODIFIED="1766368174038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonTarea$Manipulacion_archivos.coverage" NAME="Manipulacion_archivos Coverage Results" MODIFIED="1771678355327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 10" />
     <SUITE FILE_PATH="coverage/PythonTarea$Semana3.coverage" NAME="Semana3 Coverage Results" MODIFIED="1765767132245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonTarea$POO.coverage" NAME="POO Coverage Results" MODIFIED="1765767198832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonTarea$polimorfismo.coverage" NAME="polimorfismo Coverage Results" MODIFIED="1768743223117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 6 deber" />
